@@ -1,0 +1,36 @@
+@model List<Clientes.Models.Cliente> 
+
+ <h1>Lista de Clientes</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Documento</th>
+                <th>Celular</th>
+                <th>Correo</th>
+                <th>Departamento</th>
+                <th>Ciudad</th>
+                <th>Direccion</th>
+                <th>Deuda</th>
+                <th>Foto</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cliente in Model)
+            {
+                <tr>
+                    <td>@cliente.Id</td>
+                    <td>@cliente.Nombre</td>
+                    <td>@cliente.Documento</td>
+                    <td>@cliente.Celular</td>
+                    <td>@cliente.Correo</td>
+                    <td>@cliente.Departamento</td>
+                    <td>@cliente.Ciudad</td>
+                    <td>@cliente.Direccion</td>
+                    <td>@cliente.Deuda</td>
+                    <td>@cliente.Foto</td>
+                </tr>
+            }
+        </tbody>
+    </table>

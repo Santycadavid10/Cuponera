@@ -1,0 +1,32 @@
+@model List<Productos.Models.Producto> 
+
+ <h1>Lista de Clientes</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Codigo</th>
+                <th>Categoria</th>
+                <th>Precio</th>
+                <th>Vendidos</th>
+                <th>Disponibles</th>
+                <th>Imagen</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Producto in Model)
+            {
+                <tr>
+                    <td>@Producto.Id</td>
+                    <td>@Producto.Nombre</td>
+                    <td>@Producto.Codigo</td>
+                    <td>@Producto.Categoria</td>
+                    <td>@Producto.Precio</td>
+                    <td>@Producto.Vendidos</td>
+                    <td>@Producto.Disponibles</td>
+                    <td>@Producto.Imagen</td>
+                </tr>
+            }
+        </tbody>
+    </table>

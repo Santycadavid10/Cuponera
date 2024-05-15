@@ -1,0 +1,14 @@
+insertar usuario 
+INSERT INTO Clientes (Contraseña, Nombre, Documento, Celular, Correo, Departamento, Ciudad, Direccion, Deuda, Foto) VALUES
+('hashedPassword1', 'Daniel hurtado', '123456789', '3001234567', 'Danielhurtado@example.com', 'Antioquia', 'Medellín', 'Calle 123 #45-67', 150000,'/avatars/danielhurtado.jpg');
+
+
+
+ insertar Tienda 
+ INSERT INTO Tienda (Nombre, Imagen) VALUES
+('1million','/Logos/1million.png');
+
+ insertar producto 
+ INSERT INTO Productos (Nombre, Codigo,Categoria,Precio,Vendidos,Disponibles,Imagen) VALUES
+('1 Million Lucky Paco Rabanne (Perfume Replica Con Fragancia Importada)- Hombre','abafMillion','CuidadoPersonal',130000,50,250,'/Productos/1milion.jpg');
+

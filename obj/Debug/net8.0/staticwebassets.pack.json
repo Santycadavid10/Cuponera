@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/obj/Debug/net8.0/scopedcss/projectbundle/Cuponera.bundle.scp.css",
+      "PackagePath": "staticwebassets/Cuponera.bundle.scp.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/1million.png",
+      "PackagePath": "staticwebassets/Logos/1million.png"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/1nika.png",
+      "PackagePath": "staticwebassets/Logos/1nika.png"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/A&B.jpeg",
+      "PackagePath": "staticwebassets/Logos/A&B.jpeg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/A3Mobile.jpeg",
+      "PackagePath": "staticwebassets/Logos/A3Mobile.jpeg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/AmericaPerfume}.jpg",
+      "PackagePath": "staticwebassets/Logos/AmericaPerfume}.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/Apple.png",
+      "PackagePath": "staticwebassets/Logos/Apple.png"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/BellezaNatural.jpg",
+      "PackagePath": "staticwebassets/Logos/BellezaNatural.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/BeyondBox.jpeg",
+      "PackagePath": "staticwebassets/Logos/BeyondBox.jpeg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/Burbery.jpg",
+      "PackagePath": "staticwebassets/Logos/Burbery.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/Chanel.png",
+      "PackagePath": "staticwebassets/Logos/Chanel.png"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/Hilton.jpg",
+      "PackagePath": "staticwebassets/Logos/Hilton.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/Ibm.png",
+      "PackagePath": "staticwebassets/Logos/Ibm.png"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/Luis.jpg",
+      "PackagePath": "staticwebassets/Logos/Luis.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/Sony.png",
+      "PackagePath": "staticwebassets/Logos/Sony.png"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/Virgin.png",
+      "PackagePath": "staticwebassets/Logos/Virgin.png"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Logos/avilestechnology.jpg",
+      "PackagePath": "staticwebassets/Logos/avilestechnology.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/Productos/1milion.jpg",
+      "PackagePath": "staticwebassets/Productos/1milion.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/alejodraven.jpg",
+      "PackagePath": "staticwebassets/avatar/alejodraven.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/bladimirgarcia.jpg",
+      "PackagePath": "staticwebassets/avatar/bladimirgarcia.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/danielhurtado.jpg",
+      "PackagePath": "staticwebassets/avatar/danielhurtado.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/danielmontiel.jpg",
+      "PackagePath": "staticwebassets/avatar/danielmontiel.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/danieltorres.jpg",
+      "PackagePath": "staticwebassets/avatar/danieltorres.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/davidmonterosa.jpg",
+      "PackagePath": "staticwebassets/avatar/davidmonterosa.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/davidrico.jpg",
+      "PackagePath": "staticwebassets/avatar/davidrico.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/dinamp.jpg",
+      "PackagePath": "staticwebassets/avatar/dinamp.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/duanginra.jpg",
+      "PackagePath": "staticwebassets/avatar/duanginra.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/dubianelcuchacho.jpg",
+      "PackagePath": "staticwebassets/avatar/dubianelcuchacho.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/henrryeltripode.jpg",
+      "PackagePath": "staticwebassets/avatar/henrryeltripode.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/joanrios.jpg",
+      "PackagePath": "staticwebassets/avatar/joanrios.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/jose.jpg",
+      "PackagePath": "staticwebassets/avatar/jose.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/juandaviddeklan.jpg",
+      "PackagePath": "staticwebassets/avatar/juandaviddeklan.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/juanpablojunior.jpg",
+      "PackagePath": "staticwebassets/avatar/juanpablojunior.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/lauravelazquez.jpg",
+      "PackagePath": "staticwebassets/avatar/lauravelazquez.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/manuelamadrid.jpg",
+      "PackagePath": "staticwebassets/avatar/manuelamadrid.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/marianabedoya.jpg",
+      "PackagePath": "staticwebassets/avatar/marianabedoya.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/mateoskorm.jpg",
+      "PackagePath": "staticwebassets/avatar/mateoskorm.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/richarcalle.jpg",
+      "PackagePath": "staticwebassets/avatar/richarcalle.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/santiagosanto.jpg",
+      "PackagePath": "staticwebassets/avatar/santiagosanto.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/sebastiancastañeda.jpg",
+      "PackagePath": "staticwebassets/avatar/sebastiancastañeda.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/sebastianelmano.jpg",
+      "PackagePath": "staticwebassets/avatar/sebastianelmano.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/sebastianramirez.jpg",
+      "PackagePath": "staticwebassets/avatar/sebastianramirez.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/avatar/valemeza.jpg",
+      "PackagePath": "staticwebassets/avatar/valemeza.jpg"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/js/generar.js",
+      "PackagePath": "staticwebassets/js/generar.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/riwip5-034/Downloads/Cuponera-main/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Cuponera.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Cuponera.props",
+      "PackagePath": "build\\Cuponera.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Cuponera.props",
+      "PackagePath": "buildMultiTargeting\\Cuponera.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Cuponera.props",
+      "PackagePath": "buildTransitive\\Cuponera.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
