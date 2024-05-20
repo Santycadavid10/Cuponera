@@ -1,9 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using Cupones.Models;
 using Clientes.Models;
-using Productos.Models;
+using Tiendas.Models;
 
-namespace LuegoPago.Data;
+namespace LUEGOPAGO.Data;
 public class LuegoPagoContext : DbContext
 {
     public LuegoPagoContext(DbContextOptions<LuegoPagoContext> options) : base(options)
@@ -11,5 +11,5 @@ public class LuegoPagoContext : DbContext
     }
     public DbSet<Cupon> Cupones { get; set; }
     public DbSet<Cliente> Clientes { get; set; }
-    public DbSet<Producto> Productos { get; set; }
+    public DbSet<Tienda> Tiendas { get; set; }
 }

@@ -1,7 +1,7 @@
 
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.EntityFrameworkCore;
-using LuegoPago.Data;
+using LUEGOPAGO.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

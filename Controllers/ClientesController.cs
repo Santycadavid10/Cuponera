@@ -1,4 +1,4 @@
-using LuegoPago.Data;
+using LUEGOPAGO.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Clientes.Models;

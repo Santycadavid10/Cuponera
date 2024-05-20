@@ -12,3 +12,51 @@ INSERT INTO Clientes (Contraseña, Nombre, Documento, Celular, Correo, Departame
  INSERT INTO Productos (Nombre, Codigo,Categoria,Precio,Vendidos,Disponibles,Imagen) VALUES
 ('1 Million Lucky Paco Rabanne (Perfume Replica Con Fragancia Importada)- Hombre','abafMillion','CuidadoPersonal',130000,50,250,'/Productos/1milion.jpg');
 
+tabla Tiendas
+CREATE TABLE Tiendas (
+    Id INT(11) AUTO_INCREMENT PRIMARY KEY,
+    NombreTienda VARCHAR(255) ,
+    ImagenTienda VARCHAR(255) 
+);
+
+agregar datos ala tienda 
+INSERT INTO Tiendas (NombreTienda, ImagenTienda) VALUES
+('A&B Tecnologia', 'logos/A&B.jpeg'),///dentro de la carpeta wwwroot
+('Nombre2', 'Imagen2.png'),
+('Nombre3', 'Imagen3.gif');
+
+
+tabla productos
+CREATE TABLE Productos (
+    Id INT(11) AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(255),
+    Codigo VARCHAR(255),
+    Categoria VARCHAR(255),
+    Precio INT(11),
+    Vendidos INT(11),
+    Disponibles INT(11),
+    Imagen VARCHAR(255)
+);
+
+agregar productos 
+INSERT INTO Productos (Nombre, Codigo, Categoria, Precio, Vendidos, Disponibles, Imagen) VALUES
+('Producto1', 'COD001', 'Categoría1', 100, 50, 200, 'logos/Imagen1.jpg'),
+('Producto2', 'COD002', 'Categoría2', 200, 30, 150, 'logos/Imagen2.png'),
+('Producto3', 'COD003', 'Categoría3', 300, 20, 100, 'logos/A&B.jpeg');
+
+
+tabla CUpones 
+CREATE TABLE Cupones (
+    Id INT(11) AUTO_INCREMENT PRIMARY KEY,
+    NombreCupon VARCHAR(255),
+    ValorCupon DECIMAL(10,2) NULL,
+    TiendasCupon VARCHAR(255),
+    TipoCupon VARCHAR(20),
+    FechaInicioCupon DATETIME,
+    FechaFinalCupon DATETIME,
+    DescripcionCupon TEXT ,
+    CantidadCupon INT(11) ,
+    AcumulableCupon INT(11),
+    ValorMinimoCupon DECIMAL(10,2),
+    ValorMaximoCupon DECIMAL(10,2),
+    ImagenCupon VARCHAR(255));

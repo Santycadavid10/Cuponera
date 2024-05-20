@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip5-034/Downloads/Cuponera-main/Cuponera.csproj": {}
+    "/home/riwip5-022/Downloads/Cuponerassssss/LuegoPago/Cuponera.csproj": {}
   },
   "projects": {
-    "/home/riwip5-034/Downloads/Cuponera-main/Cuponera.csproj": {
+    "/home/riwip5-022/Downloads/Cuponerassssss/LuegoPago/Cuponera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip5-034/Downloads/Cuponera-main/Cuponera.csproj",
+        "projectUniqueName": "/home/riwip5-022/Downloads/Cuponerassssss/LuegoPago/Cuponera.csproj",
         "projectName": "Cuponera",
-        "projectPath": "/home/riwip5-034/Downloads/Cuponera-main/Cuponera.csproj",
-        "packagesPath": "/home/riwip5-034/.nuget/packages/",
-        "outputPath": "/home/riwip5-034/Downloads/Cuponera-main/obj/",
+        "projectPath": "/home/riwip5-022/Downloads/Cuponerassssss/LuegoPago/Cuponera.csproj",
+        "packagesPath": "/home/riwip5-022/.nuget/packages/",
+        "outputPath": "/home/riwip5-022/Downloads/Cuponerassssss/LuegoPago/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/riwip5-034/.nuget/NuGet/NuGet.Config"
+          "/home/riwip5-022/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -42,6 +42,10 @@
               "target": "Package",
               "version": "[8.0.4, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[8.0.2, )"
@@ -66,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

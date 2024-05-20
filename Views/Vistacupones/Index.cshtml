@@ -1,0 +1,47 @@
+@model Vistascupones.Models.Vistascupon
+
+<form id="miFormulario" asp-action="Create" method="post" enctype="multipart/form-data">
+  <input type="text" id="NombreCupon" name="NombreCupon" placeholder="Nombre Cupon" class="d-block">
+  <input type="text" id="ValorCupon" name="ValorCupon" placeholder="Valor Cupon" class="d-block">
+    
+    <button id="customSelectButton" type="button">Seleccionar Tiendas</button>
+    <div class="checklist-options">
+        @foreach (var tienda in Model.Tiendas)
+        {
+            <div class="checklist-item">
+                <input type="checkbox" id="tienda_@tienda.Id" name="tienda_@tienda.Id" value="@tienda.NombreTienda" class="tienda-checkbox">
+                <label for="tienda_@tienda.Id">@tienda.NombreTienda</label>
+            </div>
+        }
+    </div>
+    
+  <input type="hidden" id="TiendasCupon" name="TiendasCupon">
+    <p id="selectedTiendas"></p>
+
+  <select id="TipoCupon" name="TipoCupon" class="d-block">
+        <option value="" disabled selected>Seleccione el tipo de cupon</option>
+        <option value="porcentaje">Porcentaje</option>
+        <option value="descuento">Descuento</option>
+    </select>
+
+    <label for="fechainicio">Fecha de inicio:</label>
+  <input type="date" id="FechaInicioCupon" name="FechaInicioCupon">
+    
+    <label for="fechafinal">Fecha de finalización:</label>
+  <input type="date" id="FechaFinalCupon" name="FechaFinalCupon" class="d-block">
+
+  <textarea id="DescripcionCupon" maxlength="50" placeholder="Descripción..." name="DescripcionCupon"></textarea>
+
+  <input type="text" id="CantidadCupon" name="CantidadCupon" placeholder="Cantidad de cupones" class="d-block">
+    
+  <input type="text" id="AcumulableCupon" name="AcumulableCupon" placeholder="Número de acumulables" class="d-block">
+        
+  <input type="text" id="ValorMinimoCupon" name="ValorMinimoCupon" placeholder="Valor mínimo" class="d-block">
+        
+  <input type="text" id="ValorMaximoCupon" name="ValorMaximoCupon" placeholder="Valor máximo" class="d-block">
+        
+    <input type="file" id="ImagenReal" name="ImagenReal" />
+        
+    <button type="submit" id="envio">Crear Cupón</button>
+</form>
+    <script src="~/js/generar.js"></script>
