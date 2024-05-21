@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "c3f4pF8wSDD6+JrbDc7P++slMjlmFV0BzFwgUlPRBHw=",
+=======
+  "Hash": "V2OJ+Hi9v7Z6ygu4tmzP66qSb2ndFm5tOjoyjaVyjvc=",
+>>>>>>> refs/remotes/origin/main
   "Source": "Cuponera",
   "BasePath": "_content/Cuponera",
   "Mode": "Default",
@@ -8,19 +12,30 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Cuponera/wwwroot",
+      "Name": "Cuponera\\wwwroot",
       "Source": "Cuponera",
+<<<<<<< HEAD
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/obj/Debug/net8.0/scopedcss/bundle/Cuponera.styles.css",
       "SourceId": "Cuponera",
       "SourceType": "Computed",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/obj/Debug/net8.0/scopedcss/bundle/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Cuponera.styles.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Cuponera.styles.css",
       "AssetKind": "All",
@@ -33,6 +48,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/home/riwip5-022/Downloads/Cuponera/obj/Debug/net8.0/scopedcss/bundle/Cuponera.styles.css"
     },
     {
@@ -40,6 +56,15 @@
       "SourceId": "Cuponera",
       "SourceType": "Computed",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/obj/Debug/net8.0/scopedcss/projectbundle/",
+=======
+      "OriginalItemSpec": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Cuponera.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Cuponera.bundle.scp.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Cuponera.bundle.scp.css",
       "AssetKind": "All",
@@ -52,6 +77,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/home/riwip5-022/Downloads/Cuponera/obj/Debug/net8.0/scopedcss/projectbundle/Cuponera.bundle.scp.css"
     },
     {
@@ -59,6 +85,15 @@
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "OriginalItemSpec": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Cuponera.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\alejodraven.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/alejodraven.jpg",
       "AssetKind": "All",
@@ -71,13 +106,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/alejodraven.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\alejodraven.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/bladimirgarcia.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\bladimirgarcia.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/bladimirgarcia.jpg",
       "AssetKind": "All",
@@ -90,13 +132,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/bladimirgarcia.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\bladimirgarcia.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/danielhurtado.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\danielhurtado.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/danielhurtado.jpg",
       "AssetKind": "All",
@@ -109,13 +158,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/danielhurtado.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\danielhurtado.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/danielmontiel.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\danielmontiel.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/danielmontiel.jpg",
       "AssetKind": "All",
@@ -128,13 +184,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/danielmontiel.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\danielmontiel.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/danieltorres.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\danieltorres.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/danieltorres.jpg",
       "AssetKind": "All",
@@ -147,13 +210,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/danieltorres.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\danieltorres.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/davidmonterosa.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\davidmonterosa.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/davidmonterosa.jpg",
       "AssetKind": "All",
@@ -166,13 +236,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/davidmonterosa.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\davidmonterosa.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/davidrico.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\davidrico.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/davidrico.jpg",
       "AssetKind": "All",
@@ -185,13 +262,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/davidrico.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\davidrico.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/dinamp.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\dinamp.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/dinamp.jpg",
       "AssetKind": "All",
@@ -204,13 +288,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/dinamp.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\dinamp.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/duanginra.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\duanginra.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/duanginra.jpg",
       "AssetKind": "All",
@@ -223,13 +314,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/duanginra.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\duanginra.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/dubianelcuchacho.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\dubianelcuchacho.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/dubianelcuchacho.jpg",
       "AssetKind": "All",
@@ -242,13 +340,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/dubianelcuchacho.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\dubianelcuchacho.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/henrryeltripode.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\henrryeltripode.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/henrryeltripode.jpg",
       "AssetKind": "All",
@@ -261,13 +366,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/henrryeltripode.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\henrryeltripode.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/joanrios.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\joanrios.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/joanrios.jpg",
       "AssetKind": "All",
@@ -280,13 +392,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/joanrios.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\joanrios.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/jose.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\jose.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/jose.jpg",
       "AssetKind": "All",
@@ -299,13 +418,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/jose.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\jose.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/juandaviddeklan.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\juandaviddeklan.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/juandaviddeklan.jpg",
       "AssetKind": "All",
@@ -318,13 +444,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/juandaviddeklan.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\juandaviddeklan.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/juanpablojunior.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\juanpablojunior.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/juanpablojunior.jpg",
       "AssetKind": "All",
@@ -337,13 +470,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/juanpablojunior.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\juanpablojunior.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/lauravelazquez.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\lauravelazquez.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/lauravelazquez.jpg",
       "AssetKind": "All",
@@ -356,13 +496,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/lauravelazquez.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\lauravelazquez.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/manuelamadrid.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\manuelamadrid.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/manuelamadrid.jpg",
       "AssetKind": "All",
@@ -375,13 +522,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/manuelamadrid.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\manuelamadrid.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/marianabedoya.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\marianabedoya.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/marianabedoya.jpg",
       "AssetKind": "All",
@@ -394,13 +548,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/marianabedoya.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\marianabedoya.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/mateoskorm.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\mateoskorm.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/mateoskorm.jpg",
       "AssetKind": "All",
@@ -413,13 +574,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/mateoskorm.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\mateoskorm.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/richarcalle.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\richarcalle.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/richarcalle.jpg",
       "AssetKind": "All",
@@ -432,13 +600,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/richarcalle.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\richarcalle.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/santiagosanto.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\santiagosanto.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/santiagosanto.jpg",
       "AssetKind": "All",
@@ -451,13 +626,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/santiagosanto.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\santiagosanto.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/sebastiancastañeda.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\sebastiancastañeda.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/sebastiancastañeda.jpg",
       "AssetKind": "All",
@@ -470,13 +652,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/sebastiancastañeda.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\sebastiancastañeda.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/sebastianelmano.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\sebastianelmano.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/sebastianelmano.jpg",
       "AssetKind": "All",
@@ -489,13 +678,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/sebastianelmano.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\sebastianelmano.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/sebastianramirez.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\sebastianramirez.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/sebastianramirez.jpg",
       "AssetKind": "All",
@@ -508,13 +704,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/sebastianramirez.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\sebastianramirez.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/avatar/valemeza.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\valemeza.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "avatar/valemeza.jpg",
       "AssetKind": "All",
@@ -527,9 +730,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/avatar/valemeza.jpg"
+      "OriginalItemSpec": "wwwroot\\avatar\\valemeza.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/css/CrearCupones.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
@@ -553,6 +757,12 @@
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\css\\site.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -565,13 +775,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/favicon.ico",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\favicon.ico",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -584,13 +801,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/images/015cfeaf-163d-4fb9-b1d5-6a16928d5d8e_cupon1.png",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\015cfeaf-163d-4fb9-b1d5-6a16928d5d8e_cupon1.png",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "images/015cfeaf-163d-4fb9-b1d5-6a16928d5d8e_cupon1.png",
       "AssetKind": "All",
@@ -603,9 +827,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/015cfeaf-163d-4fb9-b1d5-6a16928d5d8e_cupon1.png"
+      "OriginalItemSpec": "wwwroot\\images\\015cfeaf-163d-4fb9-b1d5-6a16928d5d8e_cupon1.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/images/2447bc1c-dbc6-448b-accd-e058d34915d9_jose",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
@@ -629,6 +854,12 @@
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\2ebac86b-a0ec-4cbf-9d7c-265c4e741817_corazon.png",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "images/2ebac86b-a0ec-4cbf-9d7c-265c4e741817_corazon.png",
       "AssetKind": "All",
@@ -641,9 +872,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/2ebac86b-a0ec-4cbf-9d7c-265c4e741817_corazon.png"
+      "OriginalItemSpec": "wwwroot\\images\\2ebac86b-a0ec-4cbf-9d7c-265c4e741817_corazon.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/images/4e03cd8f-e102-4be7-accc-8eebd49fe4a2_Screenshot from 2023-12-21 15-55-39.png",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
@@ -667,6 +899,12 @@
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\55285e6a-3569-4fb3-9b6e-76bd19f7ebc0_cupon-general.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "images/55285e6a-3569-4fb3-9b6e-76bd19f7ebc0_cupon-general.jpg",
       "AssetKind": "All",
@@ -679,6 +917,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/images/55285e6a-3569-4fb3-9b6e-76bd19f7ebc0_cupon-general.jpg"
     },
     {
@@ -686,6 +925,15 @@
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\images\\55285e6a-3569-4fb3-9b6e-76bd19f7ebc0_cupon-general.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\a3054dc7-b30c-4113-84fd-99d0f7110b49_cupon1.png",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "images/a3054dc7-b30c-4113-84fd-99d0f7110b49_cupon1.png",
       "AssetKind": "All",
@@ -698,13 +946,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/a3054dc7-b30c-4113-84fd-99d0f7110b49_cupon1.png"
+      "OriginalItemSpec": "wwwroot\\images\\a3054dc7-b30c-4113-84fd-99d0f7110b49_cupon1.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/images/d000ec0b-85b3-4daf-86b6-b2c33525f9d1_Rottweiler.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\d000ec0b-85b3-4daf-86b6-b2c33525f9d1_Rottweiler.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "images/d000ec0b-85b3-4daf-86b6-b2c33525f9d1_Rottweiler.jpg",
       "AssetKind": "All",
@@ -717,13 +972,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/d000ec0b-85b3-4daf-86b6-b2c33525f9d1_Rottweiler.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\d000ec0b-85b3-4daf-86b6-b2c33525f9d1_Rottweiler.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/images/d0e51083-da0d-4e5e-89e6-fb7552386277_imagencuponn.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\d0e51083-da0d-4e5e-89e6-fb7552386277_imagencuponn.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "images/d0e51083-da0d-4e5e-89e6-fb7552386277_imagencuponn.jpg",
       "AssetKind": "All",
@@ -736,13 +998,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/d0e51083-da0d-4e5e-89e6-fb7552386277_imagencuponn.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\d0e51083-da0d-4e5e-89e6-fb7552386277_imagencuponn.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/js/CrearCupones.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\js\\generar.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "js/CrearCupones.js",
       "AssetKind": "All",
@@ -755,6 +1024,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/js/CrearCupones.js"
     },
     {
@@ -762,6 +1032,15 @@
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\js\\generar.js"
+    },
+    {
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\js\\site.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -774,13 +1053,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.js"
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -793,13 +1079,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -812,13 +1105,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -831,13 +1131,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -850,13 +1157,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -869,13 +1183,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -888,13 +1209,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -907,13 +1235,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -926,13 +1261,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -945,13 +1287,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -964,13 +1313,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -983,13 +1339,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1002,13 +1365,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1021,13 +1391,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1040,13 +1417,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1059,13 +1443,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1078,13 +1469,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1097,13 +1495,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1116,13 +1521,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1135,13 +1547,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1154,13 +1573,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1173,13 +1599,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1192,13 +1625,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1211,13 +1651,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1230,13 +1677,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1249,13 +1703,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1268,13 +1729,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1287,13 +1755,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1306,13 +1781,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1325,13 +1807,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1344,13 +1833,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1363,13 +1859,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1382,13 +1885,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1401,13 +1911,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1420,13 +1937,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1439,13 +1963,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1458,13 +1989,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1477,13 +2015,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1496,13 +2041,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1515,13 +2067,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1534,13 +2093,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1553,13 +2119,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1572,13 +2145,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1591,13 +2171,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1610,13 +2197,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1629,13 +2223,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1648,13 +2249,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1667,13 +2275,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1686,13 +2301,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1705,13 +2327,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1724,13 +2353,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1743,13 +2379,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1762,13 +2405,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1781,13 +2431,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1800,13 +2457,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1819,13 +2483,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1838,13 +2509,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1857,13 +2535,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/1million.png",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\1million.png",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/1million.png",
       "AssetKind": "All",
@@ -1876,13 +2561,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/1million.png"
+      "OriginalItemSpec": "wwwroot\\Logos\\1million.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/1nika.png",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\1nika.png",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/1nika.png",
       "AssetKind": "All",
@@ -1895,13 +2587,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/1nika.png"
+      "OriginalItemSpec": "wwwroot\\Logos\\1nika.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/A&B.jpeg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\A&B.jpeg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/A&B.jpeg",
       "AssetKind": "All",
@@ -1914,13 +2613,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/A&B.jpeg"
+      "OriginalItemSpec": "wwwroot\\Logos\\A&B.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/A3Mobile.jpeg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\A3Mobile.jpeg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/A3Mobile.jpeg",
       "AssetKind": "All",
@@ -1933,13 +2639,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/A3Mobile.jpeg"
+      "OriginalItemSpec": "wwwroot\\Logos\\A3Mobile.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/AmericaPerfume}.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\AmericaPerfume}.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/AmericaPerfume}.jpg",
       "AssetKind": "All",
@@ -1952,13 +2665,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/AmericaPerfume}.jpg"
+      "OriginalItemSpec": "wwwroot\\Logos\\AmericaPerfume}.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/Apple.png",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Apple.png",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/Apple.png",
       "AssetKind": "All",
@@ -1971,13 +2691,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/Apple.png"
+      "OriginalItemSpec": "wwwroot\\Logos\\Apple.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/avilestechnology.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\avilestechnology.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/avilestechnology.jpg",
       "AssetKind": "All",
@@ -1990,13 +2717,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/avilestechnology.jpg"
+      "OriginalItemSpec": "wwwroot\\Logos\\avilestechnology.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/BellezaNatural.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\BellezaNatural.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/BellezaNatural.jpg",
       "AssetKind": "All",
@@ -2009,13 +2743,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/BellezaNatural.jpg"
+      "OriginalItemSpec": "wwwroot\\Logos\\BellezaNatural.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/BeyondBox.jpeg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\BeyondBox.jpeg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/BeyondBox.jpeg",
       "AssetKind": "All",
@@ -2028,13 +2769,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/BeyondBox.jpeg"
+      "OriginalItemSpec": "wwwroot\\Logos\\BeyondBox.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/Burbery.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Burbery.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/Burbery.jpg",
       "AssetKind": "All",
@@ -2047,13 +2795,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/Burbery.jpg"
+      "OriginalItemSpec": "wwwroot\\Logos\\Burbery.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/Chanel.png",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Chanel.png",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/Chanel.png",
       "AssetKind": "All",
@@ -2066,13 +2821,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/Chanel.png"
+      "OriginalItemSpec": "wwwroot\\Logos\\Chanel.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/Hilton.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Hilton.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/Hilton.jpg",
       "AssetKind": "All",
@@ -2085,13 +2847,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/Hilton.jpg"
+      "OriginalItemSpec": "wwwroot\\Logos\\Hilton.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/Ibm.png",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Ibm.png",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/Ibm.png",
       "AssetKind": "All",
@@ -2104,13 +2873,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/Ibm.png"
+      "OriginalItemSpec": "wwwroot\\Logos\\Ibm.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/Luis.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Luis.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/Luis.jpg",
       "AssetKind": "All",
@@ -2123,13 +2899,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/Luis.jpg"
+      "OriginalItemSpec": "wwwroot\\Logos\\Luis.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/Sony.png",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Sony.png",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/Sony.png",
       "AssetKind": "All",
@@ -2142,13 +2925,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/Sony.png"
+      "OriginalItemSpec": "wwwroot\\Logos\\Sony.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Logos/Virgin.png",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Virgin.png",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Logos/Virgin.png",
       "AssetKind": "All",
@@ -2161,13 +2951,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Logos/Virgin.png"
+      "OriginalItemSpec": "wwwroot\\Logos\\Virgin.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "/home/riwip5-022/Downloads/Cuponera/wwwroot/Productos/1milion.jpg",
       "SourceId": "Cuponera",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-022/Downloads/Cuponera/wwwroot/",
+=======
+      "Identity": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Productos\\1milion.jpg",
+      "SourceId": "Cuponera",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\",
+>>>>>>> refs/remotes/origin/main
       "BasePath": "_content/Cuponera",
       "RelativePath": "Productos/1milion.jpg",
       "AssetKind": "All",
@@ -2180,7 +2977,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Productos/1milion.jpg"
+      "OriginalItemSpec": "wwwroot\\Productos\\1milion.jpg"
     }
   ]
 }

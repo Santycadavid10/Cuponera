@@ -512,6 +512,7 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\2ebac86b-a0ec-4cbf-9d7c-265c4e741817_corazon.png))</OriginalItemSpec>
     </StaticWebAsset>
+<<<<<<< HEAD
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\4e03cd8f-e102-4be7-accc-8eebd49fe4a2_Screenshot from 2023-12-21 15-55-39.png))">
       <SourceType>Package</SourceType>
       <SourceId>Cuponera</SourceId>
@@ -528,6 +529,8 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\4e03cd8f-e102-4be7-accc-8eebd49fe4a2_Screenshot from 2023-12-21 15-55-39.png))</OriginalItemSpec>
     </StaticWebAsset>
+=======
+>>>>>>> refs/remotes/origin/main
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\55285e6a-3569-4fb3-9b6e-76bd19f7ebc0_cupon-general.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Cuponera</SourceId>
