@@ -1,455 +1,459 @@
 {
   "Files": [
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/obj/Debug/net8.0/scopedcss/projectbundle/Cuponera.bundle.scp.css",
-      "PackagePath": "staticwebassets/Cuponera.bundle.scp.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Cuponera.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Cuponera.bundle.scp.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/1million.png",
-      "PackagePath": "staticwebassets/Logos/1million.png"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\1million.png",
+      "PackagePath": "staticwebassets\\Logos\\1million.png"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/1nika.png",
-      "PackagePath": "staticwebassets/Logos/1nika.png"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\1nika.png",
+      "PackagePath": "staticwebassets\\Logos\\1nika.png"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/A&B.jpeg",
-      "PackagePath": "staticwebassets/Logos/A&B.jpeg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\A&B.jpeg",
+      "PackagePath": "staticwebassets\\Logos\\A&B.jpeg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/A3Mobile.jpeg",
-      "PackagePath": "staticwebassets/Logos/A3Mobile.jpeg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\A3Mobile.jpeg",
+      "PackagePath": "staticwebassets\\Logos\\A3Mobile.jpeg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/AmericaPerfume}.jpg",
-      "PackagePath": "staticwebassets/Logos/AmericaPerfume}.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\AmericaPerfume}.jpg",
+      "PackagePath": "staticwebassets\\Logos\\AmericaPerfume}.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/Apple.png",
-      "PackagePath": "staticwebassets/Logos/Apple.png"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Apple.png",
+      "PackagePath": "staticwebassets\\Logos\\Apple.png"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/BellezaNatural.jpg",
-      "PackagePath": "staticwebassets/Logos/BellezaNatural.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\BellezaNatural.jpg",
+      "PackagePath": "staticwebassets\\Logos\\BellezaNatural.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/BeyondBox.jpeg",
-      "PackagePath": "staticwebassets/Logos/BeyondBox.jpeg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\BeyondBox.jpeg",
+      "PackagePath": "staticwebassets\\Logos\\BeyondBox.jpeg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/Burbery.jpg",
-      "PackagePath": "staticwebassets/Logos/Burbery.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Burbery.jpg",
+      "PackagePath": "staticwebassets\\Logos\\Burbery.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/Chanel.png",
-      "PackagePath": "staticwebassets/Logos/Chanel.png"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Chanel.png",
+      "PackagePath": "staticwebassets\\Logos\\Chanel.png"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/Hilton.jpg",
-      "PackagePath": "staticwebassets/Logos/Hilton.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Hilton.jpg",
+      "PackagePath": "staticwebassets\\Logos\\Hilton.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/Ibm.png",
-      "PackagePath": "staticwebassets/Logos/Ibm.png"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Ibm.png",
+      "PackagePath": "staticwebassets\\Logos\\Ibm.png"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/Luis.jpg",
-      "PackagePath": "staticwebassets/Logos/Luis.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Luis.jpg",
+      "PackagePath": "staticwebassets\\Logos\\Luis.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/Sony.png",
-      "PackagePath": "staticwebassets/Logos/Sony.png"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Sony.png",
+      "PackagePath": "staticwebassets\\Logos\\Sony.png"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/Virgin.png",
-      "PackagePath": "staticwebassets/Logos/Virgin.png"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\Virgin.png",
+      "PackagePath": "staticwebassets\\Logos\\Virgin.png"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Logos/avilestechnology.jpg",
-      "PackagePath": "staticwebassets/Logos/avilestechnology.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Logos\\avilestechnology.jpg",
+      "PackagePath": "staticwebassets\\Logos\\avilestechnology.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/Productos/1milion.jpg",
-      "PackagePath": "staticwebassets/Productos/1milion.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\Productos\\1milion.jpg",
+      "PackagePath": "staticwebassets\\Productos\\1milion.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/alejodraven.jpg",
-      "PackagePath": "staticwebassets/avatar/alejodraven.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\alejodraven.jpg",
+      "PackagePath": "staticwebassets\\avatar\\alejodraven.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/bladimirgarcia.jpg",
-      "PackagePath": "staticwebassets/avatar/bladimirgarcia.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\bladimirgarcia.jpg",
+      "PackagePath": "staticwebassets\\avatar\\bladimirgarcia.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/danielhurtado.jpg",
-      "PackagePath": "staticwebassets/avatar/danielhurtado.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\danielhurtado.jpg",
+      "PackagePath": "staticwebassets\\avatar\\danielhurtado.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/danielmontiel.jpg",
-      "PackagePath": "staticwebassets/avatar/danielmontiel.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\danielmontiel.jpg",
+      "PackagePath": "staticwebassets\\avatar\\danielmontiel.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/danieltorres.jpg",
-      "PackagePath": "staticwebassets/avatar/danieltorres.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\danieltorres.jpg",
+      "PackagePath": "staticwebassets\\avatar\\danieltorres.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/davidmonterosa.jpg",
-      "PackagePath": "staticwebassets/avatar/davidmonterosa.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\davidmonterosa.jpg",
+      "PackagePath": "staticwebassets\\avatar\\davidmonterosa.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/davidrico.jpg",
-      "PackagePath": "staticwebassets/avatar/davidrico.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\davidrico.jpg",
+      "PackagePath": "staticwebassets\\avatar\\davidrico.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/dinamp.jpg",
-      "PackagePath": "staticwebassets/avatar/dinamp.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\dinamp.jpg",
+      "PackagePath": "staticwebassets\\avatar\\dinamp.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/duanginra.jpg",
-      "PackagePath": "staticwebassets/avatar/duanginra.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\duanginra.jpg",
+      "PackagePath": "staticwebassets\\avatar\\duanginra.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/dubianelcuchacho.jpg",
-      "PackagePath": "staticwebassets/avatar/dubianelcuchacho.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\dubianelcuchacho.jpg",
+      "PackagePath": "staticwebassets\\avatar\\dubianelcuchacho.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/henrryeltripode.jpg",
-      "PackagePath": "staticwebassets/avatar/henrryeltripode.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\henrryeltripode.jpg",
+      "PackagePath": "staticwebassets\\avatar\\henrryeltripode.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/joanrios.jpg",
-      "PackagePath": "staticwebassets/avatar/joanrios.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\joanrios.jpg",
+      "PackagePath": "staticwebassets\\avatar\\joanrios.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/jose.jpg",
-      "PackagePath": "staticwebassets/avatar/jose.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\jose.jpg",
+      "PackagePath": "staticwebassets\\avatar\\jose.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/juandaviddeklan.jpg",
-      "PackagePath": "staticwebassets/avatar/juandaviddeklan.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\juandaviddeklan.jpg",
+      "PackagePath": "staticwebassets\\avatar\\juandaviddeklan.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/juanpablojunior.jpg",
-      "PackagePath": "staticwebassets/avatar/juanpablojunior.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\juanpablojunior.jpg",
+      "PackagePath": "staticwebassets\\avatar\\juanpablojunior.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/lauravelazquez.jpg",
-      "PackagePath": "staticwebassets/avatar/lauravelazquez.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\lauravelazquez.jpg",
+      "PackagePath": "staticwebassets\\avatar\\lauravelazquez.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/manuelamadrid.jpg",
-      "PackagePath": "staticwebassets/avatar/manuelamadrid.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\manuelamadrid.jpg",
+      "PackagePath": "staticwebassets\\avatar\\manuelamadrid.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/marianabedoya.jpg",
-      "PackagePath": "staticwebassets/avatar/marianabedoya.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\marianabedoya.jpg",
+      "PackagePath": "staticwebassets\\avatar\\marianabedoya.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/mateoskorm.jpg",
-      "PackagePath": "staticwebassets/avatar/mateoskorm.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\mateoskorm.jpg",
+      "PackagePath": "staticwebassets\\avatar\\mateoskorm.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/richarcalle.jpg",
-      "PackagePath": "staticwebassets/avatar/richarcalle.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\richarcalle.jpg",
+      "PackagePath": "staticwebassets\\avatar\\richarcalle.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/santiagosanto.jpg",
-      "PackagePath": "staticwebassets/avatar/santiagosanto.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\santiagosanto.jpg",
+      "PackagePath": "staticwebassets\\avatar\\santiagosanto.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/sebastiancastañeda.jpg",
-      "PackagePath": "staticwebassets/avatar/sebastiancastañeda.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\sebastiancastañeda.jpg",
+      "PackagePath": "staticwebassets\\avatar\\sebastiancastañeda.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/sebastianelmano.jpg",
-      "PackagePath": "staticwebassets/avatar/sebastianelmano.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\sebastianelmano.jpg",
+      "PackagePath": "staticwebassets\\avatar\\sebastianelmano.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/sebastianramirez.jpg",
-      "PackagePath": "staticwebassets/avatar/sebastianramirez.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\sebastianramirez.jpg",
+      "PackagePath": "staticwebassets\\avatar\\sebastianramirez.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/avatar/valemeza.jpg",
-      "PackagePath": "staticwebassets/avatar/valemeza.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\avatar\\valemeza.jpg",
+      "PackagePath": "staticwebassets\\avatar\\valemeza.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/images/015cfeaf-163d-4fb9-b1d5-6a16928d5d8e_cupon1.png",
-      "PackagePath": "staticwebassets/images/015cfeaf-163d-4fb9-b1d5-6a16928d5d8e_cupon1.png"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\015cfeaf-163d-4fb9-b1d5-6a16928d5d8e_cupon1.png",
+      "PackagePath": "staticwebassets\\images\\015cfeaf-163d-4fb9-b1d5-6a16928d5d8e_cupon1.png"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/images/2ebac86b-a0ec-4cbf-9d7c-265c4e741817_corazon.png",
-      "PackagePath": "staticwebassets/images/2ebac86b-a0ec-4cbf-9d7c-265c4e741817_corazon.png"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\2ebac86b-a0ec-4cbf-9d7c-265c4e741817_corazon.png",
+      "PackagePath": "staticwebassets\\images\\2ebac86b-a0ec-4cbf-9d7c-265c4e741817_corazon.png"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/images/a3054dc7-b30c-4113-84fd-99d0f7110b49_cupon1.png",
-      "PackagePath": "staticwebassets/images/a3054dc7-b30c-4113-84fd-99d0f7110b49_cupon1.png"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\55285e6a-3569-4fb3-9b6e-76bd19f7ebc0_cupon-general.jpg",
+      "PackagePath": "staticwebassets\\images\\55285e6a-3569-4fb3-9b6e-76bd19f7ebc0_cupon-general.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/images/d000ec0b-85b3-4daf-86b6-b2c33525f9d1_Rottweiler.jpg",
-      "PackagePath": "staticwebassets/images/d000ec0b-85b3-4daf-86b6-b2c33525f9d1_Rottweiler.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\a3054dc7-b30c-4113-84fd-99d0f7110b49_cupon1.png",
+      "PackagePath": "staticwebassets\\images\\a3054dc7-b30c-4113-84fd-99d0f7110b49_cupon1.png"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/images/d0e51083-da0d-4e5e-89e6-fb7552386277_imagencuponn.jpg",
-      "PackagePath": "staticwebassets/images/d0e51083-da0d-4e5e-89e6-fb7552386277_imagencuponn.jpg"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\d000ec0b-85b3-4daf-86b6-b2c33525f9d1_Rottweiler.jpg",
+      "PackagePath": "staticwebassets\\images\\d000ec0b-85b3-4daf-86b6-b2c33525f9d1_Rottweiler.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/js/generar.js",
-      "PackagePath": "staticwebassets/js/generar.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\images\\d0e51083-da0d-4e5e-89e6-fb7552386277_imagencuponn.jpg",
+      "PackagePath": "staticwebassets\\images\\d0e51083-da0d-4e5e-89e6-fb7552386277_imagencuponn.jpg"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\js\\generar.js",
+      "PackagePath": "staticwebassets\\js\\generar.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/LICENSE",
-      "PackagePath": "staticwebassets/lib/bootstrap"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery-validation/LICENSE.md",
-      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery-validation/dist/additional-methods.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery/dist/jquery.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery/dist/jquery.min.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "/home/riwip5-034/Desktop/toca/Cuponera/wwwroot/lib/jquery/dist/jquery.min.map",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Cuponera.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "C:\\Users\\jhoan\\OneDrive\\Escritorio\\cupons\\Cuponera\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Cuponera.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Cuponera.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Cuponera.props",
       "PackagePath": "build\\Cuponera.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Cuponera.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Cuponera.props",
       "PackagePath": "buildMultiTargeting\\Cuponera.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Cuponera.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Cuponera.props",
       "PackagePath": "buildTransitive\\Cuponera.props"
     }
   ],
