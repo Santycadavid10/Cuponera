@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cuponera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48fb2e8304fa8b731b37fe776a9e776afc928d33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acd07e279c50d1757546416e58fd8787389f574e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cuponera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cuponera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

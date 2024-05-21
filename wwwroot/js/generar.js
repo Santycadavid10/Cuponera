@@ -27,3 +27,16 @@ document.addEventListener("DOMContentLoaded", (event) => {
     });
   });
 });
+
+
+function mostrarImagen(input) {
+  var reader = new FileReader();
+  
+  reader.onload = function(e) {
+      var imagenMostrada = document.getElementById('imagenMostrada');
+      imagenMostrada.src = e.target.result;
+      imagenMostrada.style.display = 'block'; // Mostrar la imagen
+  };
+  
+  reader.readAsDataURL(input.files[0]); // Leer el archivo como una URL
+}

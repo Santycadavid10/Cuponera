@@ -1,4 +1,4 @@
-@model Vistascupones.Models.Vistascupon
+@model CrearCupones.Models.CrearCupon
 
 <form id="miFormulario" asp-action="Create" method="post" enctype="multipart/form-data">
   <input type="text" id="NombreCupon" name="NombreCupon" placeholder="Nombre Cupon" class="d-block">
@@ -40,8 +40,12 @@
         
   <input type="text" id="ValorMaximoCupon" name="ValorMaximoCupon" placeholder="Valor máximo" class="d-block">
         
-    <input type="file" id="ImagenReal" name="ImagenReal" />
-        
-    <button type="submit" id="envio">Crear Cupón</button>
+   <label for="ImagenReal" class="custom-file-upload">
+    <input type="file" id="ImagenReal" name="ImagenReal" onchange="mostrarImagen(this)" />
+    Elegir imagen
+</label>
+<img id="imagenMostrada" src="#" alt="Tu imagen" style="display: none; width: 100px; height: 100px;" />
+  <button type="submit" id="envio">Crear Cupón</button>
+    
 </form>
     <script src="~/js/generar.js"></script>

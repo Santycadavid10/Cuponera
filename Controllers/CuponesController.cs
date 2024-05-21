@@ -1,28 +1,38 @@
 using LUEGOPAGO.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Vistascupones.Models;
+using CrearCupones.Models;
 using Cupones.Models; 
 
 
-namespace Vistacupones.Controllers
+namespace Cupones.Controllers
 {
-    public class VistacuponesController : Controller
+    public class CuponesController : Controller
     {
 
         private readonly IWebHostEnvironment _hostEnvironment;
 
         private readonly LuegoPagoContext _context;
 
-        public VistacuponesController(IWebHostEnvironment hostEnvironment, LuegoPagoContext context)
+        public CuponesController(IWebHostEnvironment hostEnvironment, LuegoPagoContext context)
         {
            _hostEnvironment = hostEnvironment;
             _context = context;
         }
+        /*----------------------Listar Cupones */
 
-public async Task<IActionResult> Index()
+        public async Task<IActionResult> VerCupones()
         {
-            var viewModel = new Vistascupon
+            return View(await _context.Cupones.ToListAsync());
+        }
+
+
+
+
+/*----------------------Crear cupon-------------------------------------------------------------------------------*/
+public async Task<IActionResult> CrearCupones()
+        {
+            var viewModel = new CrearCupon
             {
                 Tiendas = await _context.Tiendas.ToListAsync()
             };
@@ -54,7 +64,7 @@ public async Task<IActionResult> Index()
                
                   _context.Cupones.Add(newcupon);
                 await _context.SaveChangesAsync();
-                return RedirectToAction("Index");
+                return RedirectToAction("VerCupones");
                 }
                 
             }
@@ -62,5 +72,7 @@ public async Task<IActionResult> Index()
             ViewBag.Message = "Error al guardar el cupón.";
             return View(newcupon);
         }
+
+        
     }
 }

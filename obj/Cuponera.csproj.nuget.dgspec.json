@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip5-022/Downloads/Cuponerassssss/LuegoPago/Cuponera.csproj": {}
+    "/home/riwip5-047/Desktop/toca/Cuponera/Cuponera.csproj": {}
   },
   "projects": {
-    "/home/riwip5-022/Downloads/Cuponerassssss/LuegoPago/Cuponera.csproj": {
+    "/home/riwip5-047/Desktop/toca/Cuponera/Cuponera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip5-022/Downloads/Cuponerassssss/LuegoPago/Cuponera.csproj",
+        "projectUniqueName": "/home/riwip5-047/Desktop/toca/Cuponera/Cuponera.csproj",
         "projectName": "Cuponera",
-        "projectPath": "/home/riwip5-022/Downloads/Cuponerassssss/LuegoPago/Cuponera.csproj",
-        "packagesPath": "/home/riwip5-022/.nuget/packages/",
-        "outputPath": "/home/riwip5-022/Downloads/Cuponerassssss/LuegoPago/obj/",
+        "projectPath": "/home/riwip5-047/Desktop/toca/Cuponera/Cuponera.csproj",
+        "packagesPath": "/home/riwip5-047/.nuget/packages/",
+        "outputPath": "/home/riwip5-047/Desktop/toca/Cuponera/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/riwip5-022/.nuget/NuGet/NuGet.Config"
+          "/home/riwip5-047/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
