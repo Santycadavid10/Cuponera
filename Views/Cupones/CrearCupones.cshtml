@@ -1,51 +1,52 @@
 @model CrearCupones.Models.CrearCupon
-
+<link rel="stylesheet" href="~/css/CrearCupones.css">
 <form id="miFormulario" asp-action="Create" method="post" enctype="multipart/form-data">
   <input type="text" id="NombreCupon" name="NombreCupon" placeholder="Nombre Cupon" class="d-block">
   <input type="text" id="ValorCupon" name="ValorCupon" placeholder="Valor Cupon" class="d-block">
-    
-    <button id="customSelectButton" type="button">Seleccionar Tiendas</button>
-    <div class="checklist-options">
-        @foreach (var tienda in Model.Tiendas)
-        {
-            <div class="checklist-item">
-                <input type="checkbox" id="tienda_@tienda.Id" name="tienda_@tienda.Id" value="@tienda.NombreTienda" class="tienda-checkbox">
-                <label for="tienda_@tienda.Id">@tienda.NombreTienda</label>
-            </div>
-        }
-    </div>
-    
+
+  <button id="customSelectButton" type="button">Seleccionar Tiendas</button>
+  <div class="checklist-options">
+    @foreach (var tienda in Model.Tiendas)
+    {
+      <div class="checklist-item">
+        <input type="checkbox" id="@tienda.Id" name="tienda_@tienda.Id" value="@tienda.NombreTienda"
+          class="tienda-checkbox">
+        <label for="tienda_@tienda.Id">@tienda.NombreTienda</label>
+      </div>
+    }
+  </div>
+
   <input type="hidden" id="TiendasCupon" name="TiendasCupon">
-    <p id="selectedTiendas"></p>
+  <p id="selectedTiendas"></p>
 
   <select id="TipoCupon" name="TipoCupon" class="d-block">
-        <option value="" disabled selected>Seleccione el tipo de cupon</option>
-        <option value="porcentaje">Porcentaje</option>
-        <option value="descuento">Descuento</option>
-    </select>
+    <option value="" disabled selected>Seleccione el tipo de cupon</option>
+    <option value="porcentaje">Porcentaje</option>
+    <option value="descuento">Descuento</option>
+  </select>
 
-    <label for="FechaInicioCupon">Fecha de inicio:</label>
+  <label for="FechaInicioCupon">Fecha de inicio:</label>
   <input type="date" id="FechaInicioCupon" name="FechaInicioCupon">
-    
-    <label for="FechaFinalCupon">Fecha de finalización:</label>
+
+  <label for="FechaFinalCupon">Fecha de finalización:</label>
   <input type="date" id="FechaFinalCupon" name="FechaFinalCupon" class="d-block">
 
   <textarea id="DescripcionCupon" maxlength="50" placeholder="Descripción..." name="DescripcionCupon"></textarea>
 
   <input type="text" id="CantidadCupon" name="CantidadCupon" placeholder="Cantidad de cupones" class="d-block">
-    
+
   <input type="text" id="AcumulableCupon" name="AcumulableCupon" placeholder="Número de acumulables" class="d-block">
-        
+
   <input type="text" id="ValorMinimoCupon" name="ValorMinimoCupon" placeholder="Valor mínimo" class="d-block">
-        
+
   <input type="text" id="ValorMaximoCupon" name="ValorMaximoCupon" placeholder="Valor máximo" class="d-block">
-        
-   <label for="ImagenReal" class="custom-file-upload">
+
+  <label for="ImagenReal" class="custom-file-upload">
     <input type="file" id="ImagenReal" name="ImagenReal" onchange="mostrarImagen(this)" />
     Elegir imagen
-</label>
-<img id="imagenMostrada" src="#" alt="Tu imagen" style="display: none; width: 100px; height: 100px;" />
+  </label>
+  <img id="imagenMostrada" src="#" alt="Tu imagen" style="display: none; width: 100px; height: 100px;" />
   <button type="submit" id="envio">Crear Cupón</button>
-    
+
 </form>
-    <script src="~/js/generar.js"></script>
+<script src="~/js/CrearCupones.js"></script>
