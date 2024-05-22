@@ -1,7 +1,9 @@
 @model CrearCupones.Models.CrearCupon
 <link rel="stylesheet" href="~/css/CrearCupones.css">
 <form id="miFormulario" asp-action="Create" method="post" enctype="multipart/form-data">
+
   <input type="text" id="NombreCupon" name="NombreCupon" placeholder="Nombre Cupon" class="d-block">
+
   <input type="text" id="ValorCupon" name="ValorCupon" placeholder="Valor Cupon" class="d-block">
 
   <button id="customSelectButton" type="button">Seleccionar Tiendas</button>
@@ -45,8 +47,16 @@
     <input type="file" id="ImagenReal" name="ImagenReal" onchange="mostrarImagen(this)" />
     Elegir imagen
   </label>
-  <img id="imagenMostrada" src="#" alt="Tu imagen" style="display: none; width: 100px; height: 100px;" />
-  <button type="submit" id="envio">Crear Cupón</button>
+
+  <div class="image-container" style="position: relative; display: inline-block;">
+    <img id="imagenMostrada" src="#" alt="Tu imagen" style="display: none;">
+    <!-- Párrafo que se moverá libremente dentro de la imagen -->
+    <p id="textoSobreImagen" class="movable-text"></p>
+    <p id="textoSobreValor" class="movable-text"></p>
+  </div>
+
+
+  <button type=" submit" id="envio">Crear Cupón</button>
 
 </form>
 <script src="~/js/CrearCupones.js"></script>
