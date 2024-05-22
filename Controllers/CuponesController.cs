@@ -27,6 +27,12 @@ namespace Cupones.Controllers
         }
 
 
+        /*----------------------Detalles de un cupon */
+
+        public async Task<IActionResult> Details(int? id)
+        {
+            return View(await _context.Cupones.FirstOrDefaultAsync(m => m.Id == id));
+        }
 
 
 /*----------------------Crear cupon-------------------------------------------------------------------------------*/
@@ -59,6 +65,7 @@ public async Task<IActionResult> CrearCupones()
 
                     // Guardar la ruta de la imagen en el modelo
                     newcupon.ImagenCupon = "/images/" + uniqueFileName;
+                    newcupon.EstadoCupon  = "Activo";
                 
               //////////////////////////////////////////////////////////////////////////////////////////
                

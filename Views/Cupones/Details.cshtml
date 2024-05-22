@@ -1,0 +1,39 @@
+@model Cupones.Models.Cupon
+
+<table class="table table-dark table-hover">
+    <tr>
+        
+        <td>Nombre</td>
+        <td>Valor</td>
+        <td>Tiendas</td>
+        <td>Estado</td>
+        <td>Tipo</td>
+        <td>FechaInicio</td>
+        <td>FechaFinal</td>
+        <td>Descripcion</td>
+        <td>Cantidad</td>
+        <td>Acumulable</td>
+        <td>ValorMinimo</td>
+        <td>ValorMaximo</td>
+        <td>ImagenCupon</td>
+
+    </tr>
+
+      <tr>
+        <td>@Model.NombreCupon</td>
+        <td>@Model.ValorCupon</td>
+        <td>@Model.TiendasCupon</td>
+        <td>@Model.EstadoCupon</td>
+        <td>@Model.TipoCupon</td>
+        <td>@Model.FechaInicioCupon</td>
+        <td>@Model.FechaFinalCupon</td>
+        <td>@Model.DescripcionCupon</td>
+        <td>@Model.CantidadCupon</td>
+        <td>@Model.AcumulableCupon</td>
+        <td>@Model.ValorMinimoCupon</td>
+        <td>@Model.ValorMaximoCupon</td>
+       <td><img src="@Model.ImagenCupon" alt="Descripción de la imagen" style="width: 100px; height: 100px;"></td>
+
+        
+      </tr>
+</table>

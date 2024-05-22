@@ -1,20 +1,11 @@
 
-
-
 <table class="table table-dark table-hover">
     <tr>
         
         <td>Nombre</td>
         <td>Valor</td>
-        <td>Tiendas</td>
-        <td>Tipo</td>
-        <td>FechaInicio</td>
-        <td>FechaFinal</td>
         <td>Descripcion</td>
         <td>Cantidad</td>
-        <td>Acumulable</td>
-        <td>ValorMinimo</td>
-        <td>ValorMaximo</td>
         <td>ImagenCupon</td>
 
     </tr>
@@ -23,16 +14,10 @@
       <tr>
         <td>@Cupon.NombreCupon</td>
         <td>@Cupon.ValorCupon</td>
-        <td>@Cupon.TiendasCupon</td>
-        <td>@Cupon.TipoCupon</td>
-        <td>@Cupon.FechaInicioCupon</td>
-        <td>@Cupon.FechaFinalCupon</td>
         <td>@Cupon.DescripcionCupon</td>
         <td>@Cupon.CantidadCupon</td>
-        <td>@Cupon.AcumulableCupon</td>
-        <td>@Cupon.ValorMinimoCupon</td>
-        <td>@Cupon.ValorMaximoCupon</td>
        <td><img src="@Cupon.ImagenCupon" alt="Descripción de la imagen" style="width: 100px; height: 100px;"></td>
+       <td><a class="nav-link btn " asp-area="" asp-controller="Cupones" asp-action="Details" asp-route-id="@Cupon.Id">Detalles</a>
 
         
       </tr>
